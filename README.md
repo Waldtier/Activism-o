@@ -1,38 +1,38 @@
-## Animal Rights Funding Opportunities
+# Animal Rights Funding Opportunities
 
-# ProVeg Grants
+## ProVeg Grants
 https://proveggrants.org/grants/
 
-# VegFund
+## VegFund
 https://vegfund.org/
 
-# Animal Charity Evaluators
+## Animal Charity Evaluators
 https://researchfund.animalcharityevaluators.org/
 
-# Compassion in World Farming
+## Compassion in World Farming
 https://www.ciwf.org.uk/farm-animals-in-asia-funding-the-future/
 
-# Effective Altruism
+## Effective Altruism
 https://funds.effectivealtruism.org/funds/animal-welfare
 
-# Tiny Beam Fund
+## Tiny Beam Fund
 https://tinybeamfund.org/fueling-advocates-initiative/
 https://tinybeamfund.org/fueling-advocates-initiative/grants-program/
 
-# Open Philanthropy
+## Open Philanthropy
 https://www.openphilanthropy.org/
 
-# Culture and Animals
+## Culture and Animals
 https://www.cultureandanimals.org/
 
-# Awesome Foundation
+## Awesome Foundation
 https://www.awesomefoundation.org/en/submissions/new?chapter=vegan
 
-# A seed of change
+## A seed of change
 https://www.aseedofchange.org/application-process
 
-# Uman Impact Fund
+## Uman Impact Fund
 https://www.umano.org/impact-fund/
 
-# Jane Goodall APE fund
+## Jane Goodall APE fund
 https://janegoodall.ca/our-work/roots-and-shoots/ape-fund/
