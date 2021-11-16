@@ -1,2 +1,2 @@
-# Activism-o
-Information for activists and researcher on animal rights, environmental studies and development economics.
+# Veganismo en Peru
+Información para conocer y analizar el veganismo en el Perú
